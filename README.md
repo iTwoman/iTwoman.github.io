@@ -1,3 +1,3 @@
-# [MKSDA](http://www.iTwoman.github.io)
+# [MKSDA](https://iTwoman.github.io)
 
 Books by Laura Choi
